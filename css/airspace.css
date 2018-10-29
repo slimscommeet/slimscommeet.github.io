@@ -996,6 +996,28 @@ h3.txt-tl {
   padding: 15px 0px;
 }
 /* end google map */
+/* social */
+.social {
+  padding: 40px 0;
+  background: #A9FA74;
+}
+.social a {
+  color:#000;
+}
+.social a:hover {
+  color:#066663;
+}
+.social-list li{
+transition: 0.2s linear;
+-webkit-transition: 0.2s linear;
+-moz-transition: 0.2s linear;
+display: inline-block;
+margin: 0;
+}
+.social-list li a{
+  font-size: 28px;
+  margin-right: 15px;
+}
 /*-- back to top --*/
 .cd-top {
   display: inline-block;
