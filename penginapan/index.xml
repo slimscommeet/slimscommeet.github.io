@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Penginapans on SLiMS CommeetUp</title>
+    <link>/penginapan/</link>
+    <description>Recent content in Penginapans on SLiMS CommeetUp</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 28 Oct 2018 07:29:33 +0700</lastBuildDate>
+    
+	<atom:link href="/penginapan/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Info Penginapan Slims Commeet 2018</title>
+      <link>/penginapan/info-penginapan-slims-commeet-2018/</link>
+      <pubDate>Sun, 28 Oct 2018 07:29:33 +0700</pubDate>
+      
+      <guid>/penginapan/info-penginapan-slims-commeet-2018/</guid>
+      <description>Hotel Favorit Kami belum mendapat info hotel favorit terdekat dengan lokasi acara SLiMS Commeet .Akan segera kami update halaman ini.
+Terima kasih</description>
+    </item>
+    
+  </channel>
+</rss>

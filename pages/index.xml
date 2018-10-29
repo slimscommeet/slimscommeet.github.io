@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Pages on SLiMS CommeetUp</title>
+    <link>/pages/</link>
+    <description>Recent content in Pages on SLiMS CommeetUp</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 29 Oct 2018 06:07:26 +0700</lastBuildDate>
+    
+	<atom:link href="/pages/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Kebijakan Layanan</title>
+      <link>/pages/kebijakan-layanan/</link>
+      <pubDate>Mon, 29 Oct 2018 06:07:26 +0700</pubDate>
+      
+      <guid>/pages/kebijakan-layanan/</guid>
+      <description>1. PENDAHULUAN 1.1 Selamat datang di platform SLiMS CommeetUp yang dioperasikan oleh SLiMS CommeetUp dan komunitas penyelenggara acara (secara sendiri-sendiri dan bersama-sama juga disebut &amp;ldquo;SLiMS CommeetUp&amp;rdquo; atau &amp;ldquo;kami&amp;rdquo;). SLiMS CommeetUp dengan serius bertanggung jawab berdasarkan peraturan perundang-undangan tentang privasi yang berlaku (&amp;ldquo;Undang-Undang Privasi&amp;rdquo;) dan berkomitmen untuk menghormati hak dan masalah privasi semua Pengguna situs web SLiMS CommeetUp kami (&amp;ldquo;Situs&amp;rdquo;) (secara bersama-sama kami menyebut Situs dan layanan yang kami sediakan sebagaimana yang dijelaskan dalam Situs kami sebagai &amp;ldquo;Layanan&amp;rdquo;).</description>
+    </item>
+    
+    <item>
+      <title>Faq</title>
+      <link>/pages/faq/</link>
+      <pubDate>Sun, 28 Oct 2018 13:10:54 +0700</pubDate>
+      
+      <guid>/pages/faq/</guid>
+      <description>Apa itu SLiMS CommeetUp ? SLIMS Community Meetup (SLIMS COMMEET) merupakan acara tahunan yang diselenggararakan oleh komunitas untuk mempertemukan komunitas SLIMS dari berbagai daerah se-Indonesia, Senayan Developer Community (SDC), pemerhati dunia perpustakaan dan pemerhati dunia open source, untuk berbagi pengalaman dan berdiskusi mengenai perkembangan serta rencana kegiatan SLIMS dalam rangka membangun dunia perpustakaan yang lebih mandiri dan profesional.
+Mengapa Penginapan tidak disertakan dalam pembiayaan ? Kami memberi kebebasan peserta untuk memilih penginapan yang sesuai kebutuhan dan keinginan peserta.</description>
+    </item>
+    
+    <item>
+      <title>Call for Paper Slims Commet 2018</title>
+      <link>/pages/call-for-paper-slims-commet-2018/</link>
+      <pubDate>Sun, 28 Oct 2018 07:58:36 +0700</pubDate>
+      
+      <guid>/pages/call-for-paper-slims-commet-2018/</guid>
+      <description>Tema bahasan:  Manajemen Pengetahuan (Knowledge Management) Peran Perpustakaan dalam Pengembangan Masyarakat Ilmiah Perpustakaan Mendukung Tercapainya SDG’s Transformasi Perpustakaan dan Lembaga Informasi menuju Value Center Organisasi Informasi di bidang Perpustakaan Tata Kelola Data Ilmiah Manajemen Rekod dalam Tata Kelola Informasi Pustakawan Meneliti Scholarly Communication and the Open Access Digital Literacy dan Strategi Pemanfaatan Sumber Informasi Digital Ilmu Perpustakaan, Informasi, dan Kearsipan Tata Kelola e-resources untuk Mendukung Scholarly Communications</description>
+    </item>
+    
+    <item>
+      <title>Tentang Slims Commet</title>
+      <link>/pages/tentang-slims-commet/</link>
+      <pubDate>Sun, 28 Oct 2018 07:34:33 +0700</pubDate>
+      
+      <guid>/pages/tentang-slims-commet/</guid>
+      <description>SLIMS Community Meetup (SLIMS COMMEET) SLIMS Community Meetup (SLIMS COMMEET) merupakan acara tahunan yang diselenggararakan oleh komunitas untuk mempertemukan komunitas SLIMS dari berbagai daerah se-Indonesia, Senayan Developer Community (SDC), pemerhati dunia perpustakaan dan pemerhati dunia open source, untuk berbagi pengalaman dan berdiskusi mengenai perkembangan serta rencana kegiatan SLIMS dalam rangka membangun dunia perpustakaan yang lebih mandiri dan profesional.
+SLIMS COMMEET pertama telah sukses diselenggarakan di Yogyakarta pada tahun 2012. Tahun kedua diselenggarakan di Bogor pada tahun 2013.</description>
+    </item>
+    
+  </channel>
+</rss>
